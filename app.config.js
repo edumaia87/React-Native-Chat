@@ -25,8 +25,10 @@ export default {
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#FFFFFF",
+      },
+      "package": "com.eduardo.chatapp",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
